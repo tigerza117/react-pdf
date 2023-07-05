@@ -1,4 +1,4 @@
-import * as P from '@react-pdf/primitives';
+import * as P from '@tiger-react-pdf/primitives';
 
 import fetchEmojis from '../text/emoji';
 import fetchImage from '../image/fetchImage';

@@ -1,4 +1,4 @@
-import Yoga from '@react-pdf/yoga';
+import Yoga from '@tiger-react-pdf/yoga';
 
 import setPositionType from '../../src/node/setPositionType';
 

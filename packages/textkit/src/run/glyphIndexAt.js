@@ -1,4 +1,4 @@
-import { isNil } from '@react-pdf/fns';
+import { isNil } from '@tiger-react-pdf/fns';
 
 /**
  * Return glyph index at string index, if glyph indices present.

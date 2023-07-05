@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/primitives",
+  "name": "@tiger-react-pdf/primitives",
   "version": "3.0.1",
   "license": "MIT",
   "description": "Define uninitialized elements",

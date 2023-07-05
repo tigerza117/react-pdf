@@ -1,4 +1,4 @@
-import * as P from '@react-pdf/primitives';
+import * as P from '@tiger-react-pdf/primitives';
 
 const isDefs = node => node.type === P.Defs;
 

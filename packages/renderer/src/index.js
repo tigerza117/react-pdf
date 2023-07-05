@@ -1,7 +1,7 @@
-import FontStore from '@react-pdf/font';
-import renderPDF from '@react-pdf/render';
-import PDFDocument from '@react-pdf/pdfkit';
-import layoutDocument from '@react-pdf/layout';
+import FontStore from '@tiger-react-pdf/font';
+import renderPDF from '@tiger-react-pdf/render';
+import PDFDocument from '@tiger-react-pdf/pdfkit';
+import layoutDocument from '@tiger-react-pdf/layout';
 
 import createRenderer from './renderer';
 import { version } from '../package.json';

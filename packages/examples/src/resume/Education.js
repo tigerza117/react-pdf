@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, StyleSheet } from '@react-pdf/renderer';
+import { Text, View, StyleSheet } from '@tiger-react-pdf/renderer';
 
 import Title from './Title';
 
