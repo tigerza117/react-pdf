@@ -1,5 +1,5 @@
 import zlib from 'zlib';
-import PNG from '@tiger-react-pdf/png-js';
+import PNG from '@tiger/png-js';
 
 class PNGImage {
   constructor(data, label) {

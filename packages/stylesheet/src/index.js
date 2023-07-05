@@ -1,4 +1,4 @@
-import { compose } from '@tiger-react-pdf/fns';
+import { compose } from '@tiger/fns';
 import expandStyles from './expand';
 import flattenStyles from './flatten';
 import transformStyles from './transform';

@@ -1,4 +1,4 @@
-import * as P from '@tiger-react-pdf/primitives';
+import * as P from '@tiger/primitives';
 
 import layoutText from '../../src/text/layoutText';
 

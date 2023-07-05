@@ -7,7 +7,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from '@tiger-react-pdf/renderer';
+} from '@tiger/renderer';
 
 import Header from './Header';
 import Skills from './Skills';

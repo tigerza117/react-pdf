@@ -1,4 +1,4 @@
-import { isNil } from '@tiger-react-pdf/fns';
+import { isNil } from '@tiger/fns';
 
 import copyRect from '../rect/copy';
 import cropRect from '../rect/crop';

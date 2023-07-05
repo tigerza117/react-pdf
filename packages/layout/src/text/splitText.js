@@ -1,4 +1,4 @@
-import { get } from '@tiger-react-pdf/fns';
+import { get } from '@tiger/fns';
 
 import lineIndexAtHeight from './lineIndexAtHeight';
 import heightAtLineIndex from './heightAtLineIndex';

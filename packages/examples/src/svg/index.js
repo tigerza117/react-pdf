@@ -4,7 +4,7 @@ import ReactPDF, {
   Page,
   Font,
   StyleSheet,
-} from '@tiger-react-pdf/renderer';
+} from '@tiger/renderer';
 
 import Svg0 from './svg';
 import Svg1 from './Svg1';

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Svg, G, Polygon } from '@tiger-react-pdf/renderer';
+import { Svg, G, Polygon } from '@tiger/renderer';
 
 const Tiger = () => (
   <Svg style={{ width: 400, height: 400 }}>

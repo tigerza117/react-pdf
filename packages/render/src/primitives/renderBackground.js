@@ -1,4 +1,4 @@
-import { isNil } from '@tiger-react-pdf/fns';
+import { isNil } from '@tiger/fns';
 
 import clipNode from '../operations/clipNode';
 import parseColor from '../utils/parseColor';

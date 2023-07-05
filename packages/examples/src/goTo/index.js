@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { Page, Document, Link, View, Image } from '@tiger-react-pdf/renderer';
+import { Page, Document, Link, View, Image } from '@tiger/renderer';
 
 export default () => (
   <Document>

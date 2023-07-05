@@ -1,5 +1,5 @@
-import * as P from '@tiger-react-pdf/primitives';
-import { isNil } from '@tiger-react-pdf/fns';
+import * as P from '@tiger/primitives';
+import { isNil } from '@tiger/fns';
 
 import renderPath from './renderPath';
 import renderRect from './renderRect';

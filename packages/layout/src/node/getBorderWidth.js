@@ -1,4 +1,4 @@
-import Yoga from '@tiger-react-pdf/yoga';
+import Yoga from '@tiger/yoga';
 
 const getComputedBorder = (yogaNode, edge) =>
   yogaNode ? yogaNode.getComputedBorder(edge) : 0;

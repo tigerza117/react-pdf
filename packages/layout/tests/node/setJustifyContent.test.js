@@ -1,4 +1,4 @@
-import Yoga from '@tiger-react-pdf/yoga';
+import Yoga from '@tiger/yoga';
 
 import setJustifyContent from '../../src/node/setJustifyContent';
 

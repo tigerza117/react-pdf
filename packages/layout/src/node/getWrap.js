@@ -1,5 +1,5 @@
-import * as P from '@tiger-react-pdf/primitives';
-import { isNil } from '@tiger-react-pdf/fns';
+import * as P from '@tiger/primitives';
+import { isNil } from '@tiger/fns';
 
 const NON_WRAP_TYPES = [P.Svg, P.Note, P.Image, P.Canvas];
 

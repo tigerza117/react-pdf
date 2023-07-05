@@ -1,5 +1,5 @@
 {
-  "name": "@tiger-react-pdf/fns",
+  "name": "@tiger/fns",
   "version": "2.0.1",
   "license": "MIT",
   "description": "React-pdf helper functions",

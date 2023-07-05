@@ -1,4 +1,4 @@
-import { adjust, dropLast as arrayDropLast } from '@tiger-react-pdf/fns';
+import { adjust, dropLast as arrayDropLast } from '@tiger/fns';
 
 import runDropLast from '../run/dropLast';
 

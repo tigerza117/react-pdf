@@ -4,7 +4,7 @@ import layoutEngine, {
   scriptItemizer,
   wordHyphenation,
   textDecoration,
-} from '@tiger-react-pdf/textkit';
+} from '@tiger/textkit';
 
 import fontSubstitution from './fontSubstitution';
 import getAttributedString from './getAttributedString';

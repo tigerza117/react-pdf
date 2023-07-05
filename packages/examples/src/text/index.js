@@ -9,7 +9,7 @@ import {
   Link,
   Font,
   StyleSheet,
-} from '@tiger-react-pdf/renderer';
+} from '@tiger/renderer';
 
 const styles = StyleSheet.create({
   title: {

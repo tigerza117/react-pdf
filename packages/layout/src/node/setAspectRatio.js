@@ -1,4 +1,4 @@
-import { isNil } from '@tiger-react-pdf/fns';
+import { isNil } from '@tiger/fns';
 
 /**
  * Set aspect ratio attribute to node's Yoga instance

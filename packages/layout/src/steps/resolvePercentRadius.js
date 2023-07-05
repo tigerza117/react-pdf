@@ -1,4 +1,4 @@
-import { evolve, matchPercent } from '@tiger-react-pdf/fns';
+import { evolve, matchPercent } from '@tiger/fns';
 
 /**
  *

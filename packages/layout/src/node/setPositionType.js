@@ -1,5 +1,5 @@
-import Yoga from '@tiger-react-pdf/yoga';
-import { isNil } from '@tiger-react-pdf/fns';
+import Yoga from '@tiger/yoga';
+import { isNil } from '@tiger/fns';
 
 /**
  * Set position type attribute to node's Yoga instance

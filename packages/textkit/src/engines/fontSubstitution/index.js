@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-syntax */
 
-import { last } from '@tiger-react-pdf/fns';
+import { last } from '@tiger/fns';
 
 import empty from '../../attributedString/empty';
 

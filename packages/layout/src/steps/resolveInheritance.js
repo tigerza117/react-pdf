@@ -1,5 +1,5 @@
-import * as P from '@tiger-react-pdf/primitives';
-import { pick, compose } from '@tiger-react-pdf/fns';
+import * as P from '@tiger/primitives';
+import { pick, compose } from '@tiger/fns';
 
 const INHERITED_PROPERTIES = [
   'color',

@@ -1,5 +1,5 @@
-import Yoga from '@tiger-react-pdf/yoga';
-import { upperFirst } from '@tiger-react-pdf/fns';
+import Yoga from '@tiger/yoga';
+import { upperFirst } from '@tiger/fns';
 
 const ALIGN = {
   'flex-start': Yoga.ALIGN_FLEX_START,

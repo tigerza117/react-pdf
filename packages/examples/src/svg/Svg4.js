@@ -6,7 +6,7 @@ import {
   Circle,
   LinearGradient,
   RadialGradient,
-} from '@tiger-react-pdf/renderer';
+} from '@tiger/renderer';
 
 const Svg4 = () => (
   <Svg viewBox="0 0 10 20" width="170">

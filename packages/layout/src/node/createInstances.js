@@ -1,5 +1,5 @@
-import { castArray } from '@tiger-react-pdf/fns';
-import { TextInstance } from '@tiger-react-pdf/primitives';
+import { castArray } from '@tiger/fns';
+import { TextInstance } from '@tiger/primitives';
 
 const isString = value => typeof value === 'string';
 

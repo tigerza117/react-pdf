@@ -1,4 +1,4 @@
-import { last } from '@tiger-react-pdf/fns';
+import { last } from '@tiger/fns';
 
 import length from './length';
 import normalizeIndices from '../indices/normalize';

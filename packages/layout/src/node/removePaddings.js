@@ -1,4 +1,4 @@
-import { omit } from '@tiger-react-pdf/fns';
+import { omit } from '@tiger/fns';
 
 import setPadding from './setPadding';
 

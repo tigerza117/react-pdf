@@ -1,4 +1,4 @@
-import { isNil } from '@tiger-react-pdf/fns';
+import { isNil } from '@tiger/fns';
 
 /**
  * Checks if page has auto height

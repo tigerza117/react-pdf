@@ -1,4 +1,4 @@
-import { last } from '@tiger-react-pdf/fns';
+import { last } from '@tiger/fns';
 
 import runTrailingOffset from '../run/trailingOffset';
 

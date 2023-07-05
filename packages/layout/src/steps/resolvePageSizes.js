@@ -1,4 +1,4 @@
-import { flatten } from '@tiger-react-pdf/stylesheet';
+import { flatten } from '@tiger/stylesheet';
 import getPageSize from '../page/getSize';
 
 /**

@@ -20,7 +20,7 @@ const input = 'src/index.js';
 const getExternal = () => [
   ...Object.keys(pkg.dependencies),
   /@babel\/runtime/,
-  /@tiger-react-pdf/,
+  /@tiger/,
 ];
 
 const getPlugins = () => [

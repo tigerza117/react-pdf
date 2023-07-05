@@ -1,4 +1,4 @@
-import { last } from '@tiger-react-pdf/fns';
+import { last } from '@tiger/fns';
 
 import emptyRun from '../run/empty';
 import appendToRun from '../run/append';

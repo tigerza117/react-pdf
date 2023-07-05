@@ -1,4 +1,4 @@
-import { isNil, last } from '@tiger-react-pdf/fns';
+import { isNil, last } from '@tiger/fns';
 
 /**
  * Append glyph indices with given length

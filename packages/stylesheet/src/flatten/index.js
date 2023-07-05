@@ -1,4 +1,4 @@
-import { compose, castArray } from '@tiger-react-pdf/fns';
+import { compose, castArray } from '@tiger/fns';
 
 /**
  * Remove nil values from array

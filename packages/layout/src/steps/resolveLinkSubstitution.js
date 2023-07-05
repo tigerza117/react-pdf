@@ -1,5 +1,5 @@
-import * as P from '@tiger-react-pdf/primitives';
-import { compose } from '@tiger-react-pdf/fns';
+import * as P from '@tiger/primitives';
+import { compose } from '@tiger/fns';
 
 const isType = type => node => node.type === type;
 

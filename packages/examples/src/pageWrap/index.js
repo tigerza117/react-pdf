@@ -6,7 +6,7 @@ import {
   Text,
   Image,
   StyleSheet,
-} from '@tiger-react-pdf/renderer';
+} from '@tiger/renderer';
 
 const styles = StyleSheet.create({
   body: {

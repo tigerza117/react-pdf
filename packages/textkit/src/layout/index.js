@@ -1,4 +1,4 @@
-import { compose } from '@tiger-react-pdf/fns';
+import { compose } from '@tiger/fns';
 
 import wrapWords from './wrapWords';
 import typesetter from './typesetter';

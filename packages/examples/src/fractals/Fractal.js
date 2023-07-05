@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, View, StyleSheet } from '@tiger-react-pdf/renderer';
+import { Text, View, StyleSheet } from '@tiger/renderer';
 
 const palette = [
   '#781c81',

@@ -1,4 +1,4 @@
-import { capitalize, upperFirst } from '@tiger-react-pdf/fns';
+import { capitalize, upperFirst } from '@tiger/fns';
 
 /**
  * Apply transformation to text string

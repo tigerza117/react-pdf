@@ -1,4 +1,4 @@
-import PNG from '@tiger-react-pdf/png-js';
+import PNG from '@tiger/png-js';
 
 PNG.isValid = function(data) {
   try {

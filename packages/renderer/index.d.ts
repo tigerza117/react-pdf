@@ -11,7 +11,7 @@ import {
   Bookmark,
   PageLayout,
   PageMode,
-} from '@tiger-react-pdf/types';
+} from '@tiger/types';
 
 declare namespace ReactPDF {
   interface Styles {

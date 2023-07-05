@@ -1,4 +1,4 @@
-import * as P from '@tiger-react-pdf/primitives';
+import * as P from '@tiger/primitives';
 
 const getZIndex = node => node.style.zIndex;
 
