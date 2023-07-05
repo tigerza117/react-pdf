@@ -1,6 +1,6 @@
-import Yoga from '@tiger/yoga';
-import * as P from '@tiger/primitives';
-import { isNil, compose } from '@tiger/fns';
+import Yoga from '@tiger-za-pdf/yoga';
+import * as P from '@tiger-za-pdf/primitives';
+import { isNil, compose } from '@tiger-za-pdf/fns';
 
 import getMargin from '../node/getMargin';
 import getPadding from '../node/getPadding';

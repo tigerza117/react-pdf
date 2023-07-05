@@ -1,4 +1,4 @@
-import * as P from '@tiger/primitives';
+import * as P from '@tiger-za-pdf/primitives';
 import renderSvg from './renderSvg';
 import renderText from './renderText';
 import renderPage from './renderPage';

@@ -1,5 +1,5 @@
-import Yoga from '@tiger/yoga';
-import { isNil, matchPercent } from '@tiger/fns';
+import Yoga from '@tiger-za-pdf/yoga';
+import { isNil, matchPercent } from '@tiger-za-pdf/fns';
 
 const checkPercents = (attr, value) => {
   const percent = matchPercent(value);

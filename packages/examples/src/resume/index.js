@@ -7,7 +7,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from '@tiger/renderer';
+} from '@tiger-za-pdf/renderer';
 
 import Header from './Header';
 import Skills from './Skills';

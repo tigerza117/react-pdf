@@ -1,8 +1,8 @@
 /* eslint-disable no-continue */
 /* eslint-disable prefer-destructuring */
 
-import * as P from '@tiger/primitives';
-import { isNil, omit, asyncCompose } from '@tiger/fns';
+import * as P from '@tiger-za-pdf/primitives';
+import { isNil, omit, asyncCompose } from '@tiger-za-pdf/fns';
 
 import isFixed from '../node/isFixed';
 import splitText from '../text/splitText';

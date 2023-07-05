@@ -1,4 +1,4 @@
-import Yoga from '@tiger/yoga';
+import Yoga from '@tiger-za-pdf/yoga';
 
 import getRatio from './getRatio';
 import getMargin from '../node/getMargin';

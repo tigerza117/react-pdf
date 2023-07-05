@@ -1,4 +1,4 @@
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 import clipNode from '../operations/clipNode';
 import parseColor from '../utils/parseColor';

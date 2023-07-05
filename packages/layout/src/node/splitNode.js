@@ -1,4 +1,4 @@
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 const getTop = node => node.box?.top || 0;
 

@@ -1,4 +1,4 @@
-import { last } from '@tiger/fns';
+import { last } from '@tiger-za-pdf/fns';
 
 import length from './length';
 import normalizeIndices from '../indices/normalize';

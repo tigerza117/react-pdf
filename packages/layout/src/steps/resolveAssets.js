@@ -1,4 +1,4 @@
-import * as P from '@tiger/primitives';
+import * as P from '@tiger-za-pdf/primitives';
 
 import fetchEmojis from '../text/emoji';
 import fetchImage from '../image/fetchImage';

@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 
-import resolveImage from '@tiger/image';
+import resolveImage from '@tiger-za-pdf/image';
 
 import getSource from './getSource';
 import resolveSource from './resolveSource';

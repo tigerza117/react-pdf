@@ -1,4 +1,4 @@
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 /**
  * Set aspect ratio attribute to node's Yoga instance

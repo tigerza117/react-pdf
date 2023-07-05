@@ -1,4 +1,4 @@
-import { omit } from '@tiger/fns';
+import { omit } from '@tiger-za-pdf/fns';
 
 import setPadding from './setPadding';
 

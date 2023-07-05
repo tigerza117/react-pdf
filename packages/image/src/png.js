@@ -1,4 +1,4 @@
-import PNG from '@tiger/png-js';
+import PNG from '@tiger-za-pdf/png-js';
 
 PNG.isValid = function(data) {
   try {

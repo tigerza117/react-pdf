@@ -1,4 +1,4 @@
-import { capitalize, upperFirst } from '@tiger/fns';
+import { capitalize, upperFirst } from '@tiger-za-pdf/fns';
 
 /**
  * Apply transformation to text string

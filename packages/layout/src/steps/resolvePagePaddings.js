@@ -1,4 +1,4 @@
-import { evolve, matchPercent } from '@tiger/fns';
+import { evolve, matchPercent } from '@tiger-za-pdf/fns';
 
 /*
  * Translates page percentage horizontal paddings in fixed ones

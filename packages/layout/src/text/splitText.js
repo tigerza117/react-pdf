@@ -1,4 +1,4 @@
-import { get } from '@tiger/fns';
+import { get } from '@tiger-za-pdf/fns';
 
 import lineIndexAtHeight from './lineIndexAtHeight';
 import heightAtLineIndex from './heightAtLineIndex';

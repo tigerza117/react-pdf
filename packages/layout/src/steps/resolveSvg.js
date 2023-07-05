@@ -1,6 +1,6 @@
-import * as P from '@tiger/primitives';
-import { transformColor, processTransform } from '@tiger/stylesheet';
-import { pick, evolve, compose, mapValues, matchPercent } from '@tiger/fns';
+import * as P from '@tiger-za-pdf/primitives';
+import { transformColor, processTransform } from '@tiger-za-pdf/stylesheet';
+import { pick, evolve, compose, mapValues, matchPercent } from '@tiger-za-pdf/fns';
 
 import layoutText from '../svg/layoutText';
 import replaceDefs from '../svg/replaceDefs';

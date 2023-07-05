@@ -1,4 +1,4 @@
-import Yoga from '@tiger/yoga';
+import Yoga from '@tiger-za-pdf/yoga';
 
 const FLEX_DIRECTIONS = {
   row: Yoga.FLEX_DIRECTION_ROW,

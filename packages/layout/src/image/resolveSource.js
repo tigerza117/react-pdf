@@ -1,5 +1,5 @@
 /**
- * Resolves `src` to `@tiger/image` interface.
+ * Resolves `src` to `@tiger-za-pdf/image` interface.
  *
  * Also it handles factories and async sources.
  *

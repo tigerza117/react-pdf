@@ -1,4 +1,4 @@
-import * as P from '@tiger/primitives';
+import * as P from '@tiger-za-pdf/primitives';
 
 import createCTX from '../ctx';
 import addMetadata from '../../src/operations/addMetadata';

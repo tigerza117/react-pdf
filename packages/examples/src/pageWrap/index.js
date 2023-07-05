@@ -6,7 +6,7 @@ import {
   Text,
   Image,
   StyleSheet,
-} from '@tiger/renderer';
+} from '@tiger-za-pdf/renderer';
 
 const styles = StyleSheet.create({
   body: {

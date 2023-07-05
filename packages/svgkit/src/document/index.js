@@ -2,7 +2,7 @@
 /* eslint-disable no-restricted-syntax */
 /* eslint-disable class-methods-use-this */
 
-// import { PDFFont } from '@tiger/pdfkit';
+// import { PDFFont } from '@tiger-za-pdf/pdfkit';
 
 import SVGPage from '../page';
 import serialize from './serialize';

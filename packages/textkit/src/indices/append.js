@@ -1,4 +1,4 @@
-import { isNil, last } from '@tiger/fns';
+import { isNil, last } from '@tiger-za-pdf/fns';
 
 /**
  * Append glyph indices with given length

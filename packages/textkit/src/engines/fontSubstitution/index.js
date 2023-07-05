@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-syntax */
 
-import { last } from '@tiger/fns';
+import { last } from '@tiger-za-pdf/fns';
 
 import empty from '../../attributedString/empty';
 

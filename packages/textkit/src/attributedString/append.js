@@ -1,4 +1,4 @@
-import { last } from '@tiger/fns';
+import { last } from '@tiger-za-pdf/fns';
 
 import emptyRun from '../run/empty';
 import appendToRun from '../run/append';

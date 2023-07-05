@@ -1,11 +1,11 @@
-import * as P from '@tiger/primitives';
+import * as P from '@tiger-za-pdf/primitives';
 import layoutEngine, {
   linebreaker,
   justification,
   scriptItemizer,
   wordHyphenation,
   textDecoration,
-} from '@tiger/textkit';
+} from '@tiger-za-pdf/textkit';
 
 import fromFragments from '../text/fromFragments';
 import transformText from '../text/transformText';

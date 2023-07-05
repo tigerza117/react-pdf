@@ -1,5 +1,5 @@
-import * as P from '@tiger/primitives';
-import { isNil } from '@tiger/fns';
+import * as P from '@tiger-za-pdf/primitives';
+import { isNil } from '@tiger-za-pdf/fns';
 
 import renderPath from './renderPath';
 import renderRect from './renderRect';

@@ -1,4 +1,4 @@
-import { asyncCompose } from '@tiger/fns';
+import { asyncCompose } from '@tiger-za-pdf/fns';
 
 import resolveSvg from './steps/resolveSvg';
 import resolveZIndex from './steps/resolveZIndex';

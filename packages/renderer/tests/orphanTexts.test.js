@@ -1,5 +1,5 @@
 /* eslint-disable react/jsx-curly-brace-presence */
-import { Text, Document, Page } from '@tiger/primitives';
+import { Text, Document, Page } from '@tiger-za-pdf/primitives';
 import renderToImage from './renderComponent';
 
 const emptyString = '';

@@ -1,4 +1,4 @@
-import Yoga from '@tiger/yoga';
+import Yoga from '@tiger-za-pdf/yoga';
 
 /**
  * Set display attribute to node's Yoga instance

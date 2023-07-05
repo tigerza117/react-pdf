@@ -1,4 +1,4 @@
-import { matchPercent } from '@tiger/fns';
+import { matchPercent } from '@tiger-za-pdf/fns';
 
 const isNumeric = n => {
   return !Number.isNaN(parseFloat(n)) && Number.isFinite(n);

@@ -1,4 +1,4 @@
-import { compose } from '@tiger/fns';
+import { compose } from '@tiger-za-pdf/fns';
 
 import wrapWords from './wrapWords';
 import typesetter from './typesetter';

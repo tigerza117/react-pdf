@@ -1,4 +1,4 @@
-import * as P from '@tiger/primitives';
+import * as P from '@tiger-za-pdf/primitives';
 
 import { embedEmojis } from './emoji';
 import ignoreChars from './ignoreChars';

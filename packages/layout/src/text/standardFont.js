@@ -1,6 +1,6 @@
 /* eslint-disable class-methods-use-this */
 
-import { PDFFont } from '@tiger/pdfkit';
+import { PDFFont } from '@tiger-za-pdf/pdfkit';
 
 class StandardFont {
   constructor(src) {

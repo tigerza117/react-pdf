@@ -1,4 +1,4 @@
-import { last } from '@tiger/fns';
+import { last } from '@tiger-za-pdf/fns';
 
 /**
  * Get attributed string end value

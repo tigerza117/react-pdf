@@ -1,5 +1,5 @@
 {
-  "name": "@tiger/font",
+  "name": "@tiger-za-pdf/font",
   "version": "2.3.6",
   "license": "MIT",
   "description": "Register font and emoji source for react-pdf document",
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@tiger/types": "^2.3.3",
+    "@tiger-za-pdf/types": "^2.3.3",
     "cross-fetch": "^3.1.5",
     "fontkit": "^2.0.2",
     "is-url": "^1.2.4"

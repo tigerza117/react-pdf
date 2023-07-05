@@ -1,4 +1,4 @@
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 import omit from '../run/omit';
 import flatten from '../run/flatten';

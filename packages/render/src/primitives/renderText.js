@@ -1,5 +1,5 @@
 /* eslint-disable no-param-reassign */
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 import renderGlyphs from './renderGlyphs';
 import parseColor from '../utils/parseColor';

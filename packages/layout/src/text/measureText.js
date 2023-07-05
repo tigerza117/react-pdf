@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
 
-import Yoga from '@tiger/yoga';
+import Yoga from '@tiger-za-pdf/yoga';
 
 import layoutText from './layoutText';
 import linesWidth from './linesWidth';

@@ -1,4 +1,4 @@
-import Yoga from '@tiger/yoga';
+import Yoga from '@tiger-za-pdf/yoga';
 
 const getComputedBorder = (yogaNode, edge) =>
   yogaNode ? yogaNode.getComputedBorder(edge) : 0;

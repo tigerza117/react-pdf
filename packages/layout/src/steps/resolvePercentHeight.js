@@ -1,4 +1,4 @@
-import { isNil, matchPercent } from '@tiger/fns';
+import { isNil, matchPercent } from '@tiger-za-pdf/fns';
 
 /**
  * Transform percent height into fixed

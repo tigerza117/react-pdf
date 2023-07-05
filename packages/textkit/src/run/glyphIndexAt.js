@@ -1,4 +1,4 @@
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 /**
  * Return glyph index at string index, if glyph indices present.

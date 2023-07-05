@@ -1,5 +1,5 @@
-import Yoga from '@tiger/yoga';
-import { isNil } from '@tiger/fns';
+import Yoga from '@tiger-za-pdf/yoga';
+import { isNil } from '@tiger-za-pdf/fns';
 
 const OVERFLOW = {
   hidden: Yoga.OVERFLOW_HIDDEN,

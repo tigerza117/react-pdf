@@ -9,7 +9,7 @@ import {
   Link,
   Font,
   StyleSheet,
-} from '@tiger/renderer';
+} from '@tiger-za-pdf/renderer';
 
 const styles = StyleSheet.create({
   title: {

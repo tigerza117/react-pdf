@@ -1,5 +1,5 @@
-import * as P from '@tiger/primitives';
-import stylesheet from '@tiger/stylesheet';
+import * as P from '@tiger-za-pdf/primitives';
+import stylesheet from '@tiger-za-pdf/stylesheet';
 
 const isLink = node => node.type === P.Link;
 

@@ -2,7 +2,7 @@ import './index.css';
 
 import React, { useState } from 'react';
 import ReactDOM from 'react-dom';
-import { PDFViewer } from '@tiger/renderer';
+import { PDFViewer } from '@tiger-za-pdf/renderer';
 
 import Svg from './svg';
 import GoTo from './goTo';

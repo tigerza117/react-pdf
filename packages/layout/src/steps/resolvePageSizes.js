@@ -1,4 +1,4 @@
-import { flatten } from '@tiger/stylesheet';
+import { flatten } from '@tiger-za-pdf/stylesheet';
 import getPageSize from '../page/getSize';
 
 /**

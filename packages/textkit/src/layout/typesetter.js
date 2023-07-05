@@ -1,4 +1,4 @@
-import { isNil } from '@tiger/fns';
+import { isNil } from '@tiger-za-pdf/fns';
 
 import copyRect from '../rect/copy';
 import cropRect from '../rect/crop';

@@ -1,7 +1,7 @@
-import FontStore from '@tiger/font';
-import renderPDF from '@tiger/render';
-import PDFDocument from '@tiger/pdfkit';
-import layoutDocument from '@tiger/layout';
+import FontStore from '@tiger-za-pdf/font';
+import renderPDF from '@tiger-za-pdf/render';
+import PDFDocument from '@tiger-za-pdf/pdfkit';
+import layoutDocument from '@tiger-za-pdf/layout';
 
 import createRenderer from './renderer';
 import { version } from '../package.json';

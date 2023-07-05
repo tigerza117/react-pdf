@@ -1,5 +1,5 @@
 {
-  "name": "@tiger/stylesheet",
+  "name": "@tiger-za-pdf/stylesheet",
   "version": "4.1.7",
   "license": "MIT",
   "description": "A styles engine for Node and the browser",
@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "@tiger/fns": "2.0.1",
-    "@tiger/types": "^2.3.3",
+    "@tiger-za-pdf/fns": "2.0.1",
+    "@tiger-za-pdf/types": "^2.3.3",
     "color-string": "^1.5.3",
     "hsl-to-hex": "^1.0.0",
     "media-engine": "^1.0.3",

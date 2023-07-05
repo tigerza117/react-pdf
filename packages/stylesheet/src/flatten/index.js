@@ -1,4 +1,4 @@
-import { compose, castArray } from '@tiger/fns';
+import { compose, castArray } from '@tiger-za-pdf/fns';
 
 /**
  * Remove nil values from array

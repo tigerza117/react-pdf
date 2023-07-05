@@ -1,5 +1,5 @@
-import * as P from '@tiger/primitives';
-import { compose } from '@tiger/fns';
+import * as P from '@tiger-za-pdf/primitives';
+import { compose } from '@tiger-za-pdf/fns';
 
 const isType = type => node => node.type === type;
 

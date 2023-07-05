@@ -1,5 +1,5 @@
 import React from 'react';
-import { Page, Document } from '@tiger/renderer';
+import { Page, Document } from '@tiger-za-pdf/renderer';
 
 import Fractal from './Fractal';
 

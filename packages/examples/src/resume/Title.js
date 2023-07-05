@@ -1,5 +1,5 @@
 import React from 'react';
-import { Text, StyleSheet } from '@tiger/renderer';
+import { Text, StyleSheet } from '@tiger-za-pdf/renderer';
 
 const styles = StyleSheet.create({
   title: {

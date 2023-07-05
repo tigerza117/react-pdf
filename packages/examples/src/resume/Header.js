@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Link, Text, View, StyleSheet } from '@tiger/renderer';
+import { Link, Text, View, StyleSheet } from '@tiger-za-pdf/renderer';
 
 const styles = StyleSheet.create({
   container: {

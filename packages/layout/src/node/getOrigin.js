@@ -1,4 +1,4 @@
-import { isNil, matchPercent } from '@tiger/fns';
+import { isNil, matchPercent } from '@tiger-za-pdf/fns';
 
 const getTransformStyle = s => node =>
   isNil(node.style?.[s]) ? '50%' : node.style?.[s];

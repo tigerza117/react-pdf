@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@tiger/root",
+  "name": "@tiger-za-pdf/root",
   "version": "2.0.0",
   "license": "MIT",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
@@ -17,7 +17,7 @@
     "prepublish": "lerna run build",
     "lint": "eslint packages",
     "test": "jest",
-    "examples": "lerna run start --scope @tiger/examples",
+    "examples": "lerna run start --scope @tiger-za-pdf/examples",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "changeset publish"

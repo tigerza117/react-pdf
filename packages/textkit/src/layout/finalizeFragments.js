@@ -1,4 +1,4 @@
-import { last, compose } from '@tiger/fns';
+import { last, compose } from '@tiger-za-pdf/fns';
 
 import runHeight from '../run/height';
 import runAscent from '../run/ascent';

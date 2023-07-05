@@ -1,5 +1,5 @@
 import React from 'react';
-import { Document, Page, View, Text, StyleSheet } from '@tiger/renderer';
+import { Document, Page, View, Text, StyleSheet } from '@tiger-za-pdf/renderer';
 
 const styles = StyleSheet.create({
   select: {

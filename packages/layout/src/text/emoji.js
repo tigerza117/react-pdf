@@ -1,6 +1,6 @@
 /* eslint-disable no-cond-assign */
 import emojiRegex from 'emoji-regex';
-import resolveImage from '@tiger/image';
+import resolveImage from '@tiger-za-pdf/image';
 
 // Caches emoji images data
 const emojis = {};
